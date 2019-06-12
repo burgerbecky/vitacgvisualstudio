@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PSVita CG Visual Studio Integration", "vitacg_msi-v19.vdproj", "{711261D2-20AB-43A0-85BA-CF331F5DF956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711261D2-20AB-43A0-85BA-CF331F5DF956}.Release|Default.ActiveCfg = Release
+		{711261D2-20AB-43A0-85BA-CF331F5DF956}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C715A85-66AA-48AB-A5DB-AAD967206106}
+	EndGlobalSection
+EndGlobal
